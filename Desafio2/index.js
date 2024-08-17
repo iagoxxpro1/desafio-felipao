@@ -23,5 +23,5 @@ function saldoVitorias(vitoria, derrota){
 }
 
 let resultado = saldoVitorias(10, 5)
-console.log("O Herói tem saldo de " + resultado + " e está no nível " + nivelHeroi)
+console.log(`O Herói tem saldo de ${resultado} e está no nível ${nivelHeroi}`)
 
